@@ -5,7 +5,7 @@
 	 int a1,a2,a3,a4,a5,a6,a7,a8,a9;
 	 String s1,s2,s3,s4,s5,s6,s7,s8,s9;
 	 int sum=0,over=0;  	
-	 
+	 //เพิ่ม JOptionPane
 	 Scanner scan=new Scanner(System.in); 	
 do{ 			
 	s1=JOptionPane.showInputDialog("Enter number 1.");

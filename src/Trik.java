@@ -4,7 +4,8 @@
 	 public static void main(String[] args) { 
 		 int ball1=1,ball2=0,ball3=0; 	
 		 String result; 
-		 Scanner scan=new Scanner (System.in); 	
+		 Scanner scan=new Scanner (System.in); 
+		//เพิ่ม JOptionPane
 		 do{ 	
 			 result=JOptionPane.showInputDialog("Enter Charecter (A B C)");
 			 
